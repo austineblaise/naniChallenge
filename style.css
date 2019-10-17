@@ -1,0 +1,152 @@
+html,body{
+    height: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+}
+
+/* *{
+    outline: none;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+height: 100vh;
+width: 100vw;
+/* background-color: rgb(163, 10, 74); */
+display: flex;
+}
+#containero{
+ width: 60%;
+ height: 100%;
+ background-color: rgb(238, 234, 234);
+ text-align: center;
+ font-family: sans-serif;
+ box-shadow: 0px 7px 0px 0px lightgray;
+ 
+}
+
+#containeroo{
+width: 40%;
+ height: 100%;
+ background-color: rgba(163, 10, 79);
+ color: rgb(243, 240, 240);
+ font-size: 17px;
+ font-family: sans-serif;
+ /* box-shadow: 0px 0px 0px 7px rgb(238, 234, 234); */
+ 
+
+}
+
+#cp{
+margin-top: 30px;
+margin-left: 28px;
+}
+
+#containero h1{
+margin-top: 20px;
+margin-bottom: 23px;
+}
+
+.firstButtons{
+margin-top: 23px;
+margin-right: 90px;
+}
+
+.firstButtons button{
+padding: 15px 25px 15px 25px;
+margin-left: 20px;
+border-radius: 7px;
+border: 1px solid rgba(163, 10, 79);
+background-color: rgb(243, 240, 240);
+box-shadow: 1px 1px 5px 1px;
+color:rgba(163, 10, 79);
+font-family: sans-serif;
+
+
+}
+
+#firstButton button{
+padding: 15px 25px 15px 25px;
+margin-left: 20px;
+border-radius: 7px;
+border: 1px solid rgba(163, 10, 79);
+background-color: rgb(243, 240, 240);
+box-shadow: 1px 1px 5px 1px;
+color:rgba(163, 10, 79);
+font-family: sans-serif;
+
+
+
+}
+
+#firstButton{
+margin-top: 23px;
+margin-right: 590px;
+}
+
+.firstButtonsT button{
+padding: 15px 25px 15px 25px;
+margin-left: 20px;
+border-radius: 7px;
+border: 1px solid rgba(163, 10, 79);
+background-color: rgb(243, 240, 240);
+box-shadow: 1px 1px 5px 1px;
+color:rgba(163, 10, 79);
+font-family: sans-serif;
+
+}
+
+
+.firstButtonsT{
+margin-top: 23px;
+margin-right: 40px;
+}
+
+
+#formm{
+margin-top: 170px;
+background-color: white;
+width: 400px;
+height: 400px;
+}
+
+input{
+height: 27px;
+margin-top: 15px;
+
+}
+
+select{
+margin-top: 12px;
+height: 35px;
+width: 170px;
+
+}
+
+form p{
+margin-left: 30%;
+}
+
+#oya{
+margin-left: 70px;
+}
+
+#downcross{
+height: 40px;
+width: 40px;
+background-color:rgba(163, 10, 79);
+position: relative;
+top: -60px;
+left: 20px;
+border-radius: 50px;
+color: white;
+}
+
+a:hover{
+    background-color:rgba(163, 10, 79);
+}
